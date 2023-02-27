@@ -1,6 +1,5 @@
 # colabtogithubdemo
 
-1. Multiple Layer Perception
-2. Convolutional Neural Network
-3. General Boltzmann Machine
-4. Adversarially Constrained Autoencoder Interpolation
+1. Convolutional Neural Network
+2. General Boltzmann Machine
+3. Adversarially Constrained Autoencoder Interpolation
