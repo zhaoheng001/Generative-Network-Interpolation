@@ -1,2 +1,2 @@
-General Boltzmann Machine
-Adversarially Constrained Autoencoder Interpolation
+## General Boltzmann Machine
+## Adversarially Constrained Autoencoder Interpolation
